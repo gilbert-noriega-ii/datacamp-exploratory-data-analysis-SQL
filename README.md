@@ -1,5 +1,6 @@
 # Goals
-- Start exploring a database by identifying the tables and the foreign keys that link them. - - Look for missing values, count the number of observations, and join tables to understand how they're related. 
+- Start exploring a database by identifying the tables and the foreign keys that link them. 
+- Look for missing values, count the number of observations, and join tables to understand how they're related. 
 - Learn about coalescing and casting data along the way.
 - Build on functions like min and max to summarize numeric data in new ways. 
 - Create average, variance, correlation, and percentile functions
